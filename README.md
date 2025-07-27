@@ -24,3 +24,7 @@ StyleKart is a simple Flutter UI project for a clothing store app. It displays p
    ```yaml
    assets:
      - assets/images/products/
+
+
+   <img width="167" height="368" alt="image" src="https://github.com/user-attachments/assets/9a12c2fc-dca1-4f39-87d1-e11aa7908a87" />
+
