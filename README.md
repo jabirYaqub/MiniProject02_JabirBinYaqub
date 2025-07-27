@@ -1,16 +1,26 @@
-# miniproject2_jabirbinyaqub
+# StyleKart – Flutter UI Mini Project
 
-A new Flutter project.
+StyleKart is a simple Flutter UI project for a clothing store app. It displays products by categories with a clean and responsive design.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 7 Categories: Men, Women, Kids, Shoes, Accessories, Winter Collection, Activewear
+- Product display by category
+- Responsive and clean UI
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the project  
+   `git clone https://github.com/jabirbinyaqub/StyleKart.git`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Get dependencies  
+   `flutter pub get`
+
+3. Add images to:  
+   `assets/images/products/`
+
+4. Make sure `pubspec.yaml` includes:
+
+   ```yaml
+   assets:
+     - assets/images/products/
